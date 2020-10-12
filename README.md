@@ -1,4 +1,4 @@
-##RecyclerListView
+## RecyclerListView
 
 - JS only listview, no native dependencies.
 - It maintains memory efficiency using cell recycling.
